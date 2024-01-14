@@ -1,0 +1,21 @@
+.shadow{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+}
+.img-height{
+  height: 230px;
+}
+
+.cutsom-width{
+  max-width: 1100px;
+  margin-top: 50px !important;
+  margin-bottom: 50px !important;
+}
+h4{
+  font-family: 'Italianno', cursive !important;
+  font-weight: 700;
+  font-size:30px !important; 
+}
+.movie-card {
+  height: 100%; /* Set a fixed height for the card body */
+}
